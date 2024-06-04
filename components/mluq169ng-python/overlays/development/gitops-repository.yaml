@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: mluq169ng-python-gitops-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/mluq169ng-python-gitops
